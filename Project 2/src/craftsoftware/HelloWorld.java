@@ -2,7 +2,7 @@ package craftsoftware;
 
 public class HelloWorld {
 
-}
+} 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
 
@@ -13,5 +13,6 @@ public static void main(String[] args) {
 	System.out.println("Name of the Employee: " + name);
 	System.out.println("Salary of the Employee: " + Salary);
 	System.out.println("Bonus of the Employee: " + bonus);
+
 	
-}
+  }
