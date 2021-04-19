@@ -6,7 +6,7 @@ public class HelloWorld {
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
 
-	String name = "Jamie Foxx";
+	String name = "Hannah Foxx";
 	double Salary = 2002;
 	double bonus = 100;
 	
